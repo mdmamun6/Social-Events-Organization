@@ -1,0 +1,51 @@
+[
+      {
+        "id": 1,
+        "img": "http://diejohnsons.samcoderswebsolutions.com/wp-content/uploads/2023/10/pexels-анна-хазова-5005252-scaled.jpg",
+        "title": "Wedding Celebration",
+        "description": "Celebrate the union of two hearts with our exquisite Wedding Celebration package. Join us for a day filled with love, joy, and unforgettable memories. Whether you envision a grand banquet or a modern culinary experience, we have it all. Our picturesque venue, the Elegant Garden Resort, provides the perfect backdrop for your special day. Let us make your dream wedding a reality.",
+        "price": "$15,000",
+        "venue": "Elegant Garden Resort"
+      },
+      {
+        "id": 2,
+        "img": "http://diejohnsons.samcoderswebsolutions.com/wp-content/uploads/2023/10/depositphotos_56881935-stock-photo-birthday-party-in-club.webp",
+        "title": "Birthday Party",
+        "description": "Make your birthday extra special with our Birthday Party package. Whether you're turning one or one hundred, we're here to help you celebrate in style. Enjoy a delightful buffet-style catering experience and a range of entertainment options at the Local Community Center. Your birthday, your way!",
+        "price": "$500",
+        "venue": "Local Community Center"
+      },
+      {
+        "id": 3,
+        "img": "http://diejohnsons.samcoderswebsolutions.com/wp-content/uploads/2023/10/20-Inspiring-Engagement-Party-Ideas-1260x630-1.webp",
+        "title": "Anniversary Dinner",
+        "description": "Toast to years of love and togetherness with our Anniversary Dinner experience. Indulge in a five-course gourmet meal with exquisite wine pairings at the Romantic Waterside Restaurant. Our celebration is a testament to your enduring love story.",
+        "price": "$2,000",
+        "venue": "Romantic Waterside Restaurant"
+      },
+      {
+        "id": 4,
+        "img": "http://diejohnsons.samcoderswebsolutions.com/wp-content/uploads/2023/10/istockphoto-1168238100-612x612-1.jpg",
+        "title": "Engagement Party",
+        "description": "Kickstart your journey of love with our Engagement Party package. Join us at the Cozy Banquet Hall for a day of promise and celebration. Our talented chefs will craft a menu that suits your preferences. Let us make your engagement party truly unforgettable.",
+        "price": "$1,200",
+        "venue": "Cozy Banquet Hall"
+      },
+      {
+        "id": 5,
+        "img": "http://diejohnsons.samcoderswebsolutions.com/wp-content/uploads/2023/10/istockphoto-1067646764-612x612-1.jpg",
+        "title": "Retirement Celebration",
+        "description": "Bid farewell to the daily grind and embrace retirement with our Retirement Celebration package. Join us at the Rustic Country Club for a day of relaxation and fun. Celebrate your achievements and look forward to new horizons with friends and colleagues.",
+        "price": "$800",
+        "venue": "Rustic Country Club"
+      },
+      {
+        "id": 6,
+        "img": "http://diejohnsons.samcoderswebsolutions.com/wp-content/uploads/2023/10/baby-shower-blog-image-1200x900-1.png",
+        "title": "Baby Shower",
+        "description": "Welcome a new bundle of joy into the world with our Baby Shower package. Join us at the Charming Tea House for an afternoon filled with love and laughter. Share parenting advice, play games, and create cherished memories as we celebrate the miracle of life.",
+        "price": "$600",
+        "venue": "Charming Tea House"
+      }
+    ]
+  
